@@ -1,0 +1,9 @@
+import pyfiglet 
+
+text = pyfiglet.print_figlet(text="BRENT", colors='BLUE' ,  font="GRAFFITI")
+
+text = pyfiglet.print_figlet(text="BARRY", colors='RED' ,  font="GRAFFITI")
+
+text = pyfiglet.print_figlet(text="GAYAMO", colors='GREEN' , font="GRAFFITI")
+
+print(text)
